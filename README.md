@@ -1,4 +1,4 @@
-# Simple Calculator (HTML Table Layout)
+## Simple Calculator (HTML Table Layout)
 
 This project is a **basic calculator UI** created using only **HTML table tags**.  
 It demonstrates how to structure and design a calculator interface without using CSS or JavaScript.
@@ -26,7 +26,8 @@ The `<table>` tag in HTML is used to **display data in tabular form** — rows a
     <td>Data 1</td>     <!-- Defines a normal data cell -->
     <td>Data 2</td>
   </tr>
-</table>```
+</table>
+```
 
 ---
 
@@ -42,7 +43,7 @@ The `<table>` tag in HTML is used to **display data in tabular form** — rows a
 
 Download or clone the repository:
 
-git clone https://github.com/Divyakake03/web-tech.git
+git clone https://github.com/Divyakake03/web-Technology.git
 
 
 Open the project folder in VS Code or any editor.

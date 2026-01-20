@@ -26,7 +26,7 @@ The `<table>` tag in HTML is used to **display data in tabular form** — rows a
     <td>Data 1</td>     <!-- Defines a normal data cell -->
     <td>Data 2</td>
   </tr>
-</table>
+</table>```
 
 
 ## Features

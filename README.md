@@ -28,6 +28,7 @@ The `<table>` tag in HTML is used to **display data in tabular form** — rows a
   </tr>
 </table>```
 
+---
 
 ## Features
 - Built entirely using **HTML `<table>`**.
